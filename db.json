@@ -1,0 +1,27 @@
+{
+    "users": [
+      {
+        "userID": 1,
+        "username": "john_doe",
+        "password": "hashed_password_here",
+        "email": "john@example.com",
+        "firstName": "John",
+        "lastName": "Doe",
+        "dateOfBirth": "1990-05-15",
+        "gender": "Male",
+        "registrationDate": "2024-05-31T14:23:00Z"
+      },
+      {
+        "userID": 2,
+        "username": "jane_smith",
+        "password": "hashed_password_here",
+        "email": "jane@example.com",
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "dateOfBirth": "1985-10-20",
+        "gender": "Female",
+        "registrationDate": "2024-05-30T09:45:00Z"
+      }
+    ]
+  }
+  
